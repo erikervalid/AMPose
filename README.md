@@ -1,2 +1,2 @@
-# AMPose
-ICASSP 2023 Accepted
+# AMPose: Alternatively Mixed Global-Local Attention Model for 3D Human Pose Estimation
+
